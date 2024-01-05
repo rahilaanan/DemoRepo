@@ -1,0 +1,21 @@
+nav li {
+text-decoration: none;
+}
+label {
+    display: block;
+    padding: 7px;
+    margin-bottom: 10px;
+}
+legend{
+    margin: 5px;
+    padding: 10px;
+    
+}
+#reset{
+    padding: 5px;
+    margin-top: 10px;
+}
+video{
+    width: 80%;
+    height: 50%;
+}
